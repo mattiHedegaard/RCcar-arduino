@@ -5,7 +5,19 @@ The purpose of the project was to address a problem statement through the develo
 The object retrieval functionality is currently theoretical and implemented using a controllable front-mounted hook operated through the controller.
 All programming, electrical wiring, and 3D modeling were created by me, with the exception of the differential model, which was downloaded from [Thingiverse](https://www.thingiverse.com/thing:6437946).
 
-## Demo
+## Demonstration Video
+[Demonstration video of final prototype.](https://www.youtube.com/watch?v=SpVoycZo1vw)
+
+## Documentation
+In addition to the prototype itself, a report was written describing the concept, design process, and electrical implementation.
+
+The report includes:
+- Electrical circuit diagrams
+- System implementation details
+- 3D model illustrations
+- Development documentation
+
+[Read the report](https://github.com/user-attachments/files/27552492/Physical.Prototypes.and.Interactions.RC.assistent.-.Matti.Hedegaard.Hansen.pdf)
 
 ### Early Prototype Stages
 
@@ -21,16 +33,4 @@ All programming, electrical wiring, and 3D modeling were created by me, with the
 
 <img width="617" height="561" alt="Final prototype 4" src="https://github.com/user-attachments/assets/09290548-e9dd-477e-97af-667f6283b70c" />
 
-## Demonstration Video
-[Demonstration video of final prototype.](https://www.youtube.com/watch?v=SpVoycZo1vw)
 
-## Documentation
-In addition to the prototype itself, a report was written describing the concept, design process, and electrical implementation.
-
-The report includes:
-- Electrical circuit diagrams
-- System implementation details
-- 3D model illustrations
-- Development documentation
-
-[Read the report](https://github.com/user-attachments/files/27552492/Physical.Prototypes.and.Interactions.RC.assistent.-.Matti.Hedegaard.Hansen.pdf)
