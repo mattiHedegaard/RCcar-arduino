@@ -27,6 +27,9 @@ The report includes:
 
 <img width="1282" height="718" alt="Early prototype" src="https://github.com/user-attachments/assets/837a4847-42f2-499d-ad67-14da6301d52a" />
 
+<img width="2268" height="4032" alt="car controls and controller" src="https://github.com/user-attachments/assets/236e45a9-1cba-4252-915e-be247ec20497" />
+
+
 ### Final Prototype
 
 <img width="681" height="718" alt="Final prototype 1" src="https://github.com/user-attachments/assets/a9002115-ff00-4e2d-9d44-acd47664feb9" />
